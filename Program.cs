@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
-class Quadtest
+class   EquatAss
 {
     public static void Main()
     {
